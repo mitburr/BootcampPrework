@@ -1,0 +1,6 @@
+I found all the errors before I n oticed the instruction to note them. Given that, here are the errors I noticed:
+many omissions of "" sets
+some omissions of <> or misuse of <></> pairs
+Poor tabbing to distinguish objects. This is an issue in Python, I'm not sure if it is in HTML
+The buttons for the colors were connected to the wrong colors and one was out of place so it didn't function at all
+The syntax around the hyperlink was faulty 
