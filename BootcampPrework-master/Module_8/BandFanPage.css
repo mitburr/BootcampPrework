@@ -1,0 +1,10 @@
+﻿body {
+    background-image: url("https://f4.bcbits.com/img/a0105432156_16.jpg");
+    background-position: bottom;
+    background-origin: content-box; 
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
